@@ -1,0 +1,3 @@
+Safat is learning in Python.
+Safat passed in HSC exam.
+Safat is a student of East West University.

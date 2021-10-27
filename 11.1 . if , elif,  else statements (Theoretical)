@@ -1,0 +1,68 @@
+#Control Statement :
+
+* Conditional Control Statement (if, elif, else)
+*Loop Control Statement (for, while)
+--------------------------------------------------
+# else if = elif
+
+###Important Note :
+
+*statement 1 -> if statement
+*stetement 2 -> if statement, else statement
+*stetement 3 or more -> if statement, elif statement..........., else statement
+
+'''
+if expretion :
+        statement
+
+elif expretion :
+        statement
+
+elif expretion :
+        statement
+
+elif expretion :
+        statement
+.
+.
+.
+.
+else :
+        statement
+
+'''
+
+
+'''
+print("Pass")
+Print("Fail")
+'''
+
+#if statement : expression/condition - definitely True
+#Example,
+
+mark = 80
+if mark>= 33:
+    print("Pass")
+
+if mark<33:
+    print("Fail")
+print("Program End")
+
+#else statement : No expression/condition
+#Example,
+
+mark = 80
+if mark>= 33:
+    print("Pass")
+
+else
+    print("Fail")
+
+#Even/Odd :   #if num%2==0 :
+num =4
+if num%2==0 :
+    print("Even")
+
+else:
+    print("Odd")
